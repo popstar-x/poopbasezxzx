@@ -1,0 +1,19 @@
+
+  .logo{
+    width: 112px;
+    height: 20px;
+    display: inline-flex;
+  }
+
+  .logo:hover{
+      cursor: pointer;
+  }
+
+  .logowrapper{
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+    flex: 2 1 0%;
+}
+
+ 

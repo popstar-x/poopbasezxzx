@@ -1,0 +1,12 @@
+.phone{
+    height: 600px;
+    width: auto;
+}
+
+.phonewrapper{
+    display: flex;
+    padding-top: 40px;
+    padding-left: 24px;
+    justify-content: flex-end;
+    flex: 2 1 0%;
+}
