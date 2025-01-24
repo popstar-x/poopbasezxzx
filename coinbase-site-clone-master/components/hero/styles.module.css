@@ -1,0 +1,27 @@
+.herowrapper{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  padding-top: 70px;
+  padding-bottom: 111px;
+  flex: 1 1 0%;
+  }
+
+  .emailinput {
+    z-index: 0;
+    flex: 1 1 0px;
+    width: 100%;
+    margin: 0px;
+    padding: 20px;
+    border: none;
+    border-radius: 3px;
+    background: none;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(5, 15, 25);
+  }
+
+   .emailinput:focus{
+    outline: none;
+    border: 0.5px  rgb(22, 82, 240) solid !important;
+  }

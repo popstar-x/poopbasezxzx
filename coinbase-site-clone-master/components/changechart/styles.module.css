@@ -1,0 +1,8 @@
+.chart{
+    display: block;
+    fill: none;
+    stroke-width: 1.7;
+    stroke: rgba(17, 51, 83, 0.3);
+    pointer-events: none;
+    width: 100px;
+}

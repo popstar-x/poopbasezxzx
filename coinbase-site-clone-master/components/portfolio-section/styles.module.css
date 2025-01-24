@@ -1,0 +1,22 @@
+.portfoliowrapper{
+    display: flex;
+    flex: 1 1 auto;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 32px;
+    margin-bottom: 64px;
+}
+
+.detailswrapper{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.imagewrapper{
+    max-width: 700px;
+}
+
+.image{
+    width: 100%;
+}
